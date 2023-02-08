@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rip3rq&label=Profile%20views&color=0e75b6&style=flat" alt="rip3rq" /> </p>
 
-- 🔭 I’m currently working on **UberClone**
+- 🔭 I’m currently working on **Modern UI/UX**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Modern UI/UX**
 
-- 💬 Ask me about **React, TypeScript, JavaScript, Tailwindcss**
+- 💬 Ask me about **React, React Native, TypeScript, JavaScript, Tailwindcss**
 
 - 📫 How to reach me **rafalpompa2000@gmail.com**
 
