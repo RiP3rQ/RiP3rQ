@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Modern UI/UX**
 
-- 💬 Ask me about **React, React Native, TypeScript, JavaScript, Tailwindcss**
+- 💬 Ask me about **React, React Native, Ts, Js, Tailwindcss**
 
 - 📫 How to reach me **rafalpompa2000@gmail.com**
 
