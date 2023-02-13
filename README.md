@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rip3rq&label=Profile%20views&color=0e75b6&style=flat" alt="rip3rq" /> </p>
 
-- 🔭 I’m currently working on **Modern UI/UX**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Modern UI/UX**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **React, React Native, Ts, Js, Tailwindcss**
 
