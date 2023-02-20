@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rip3rq&label=Profile%20views&color=0e75b6&style=flat" alt="rip3rq" /> </p>
 
-- 🔭 I’m currently working on **Web 3 Messenger**
+- 🔭 I’m currently working on **Web 3 Ebay**
 
 - 🌱 I’m currently learning **Web3**
 
