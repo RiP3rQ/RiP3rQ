@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rip3rq&label=Profile%20views&color=0e75b6&style=flat" alt="rip3rq" /> </p>
 
-- 🔭 I’m currently working on **Web 3 Ebay**
+- 🔭 I’m currently working on **Backend with PYTHON**
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **PYTHON Frameworks**
 
-- 💬 Ask me about **React, React Native, Ts, Js, Tailwindcss, MERN**
+- 💬 Ask me about **Nextjs, React, React Native, Ts, Js, Tailwindcss, MERN**
 
 - 📫 How to reach me **rafalpompa2000@gmail.com**
 
