@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rip3rq&label=Profile%20views&color=0e75b6&style=flat" alt="rip3rq" /> </p>
 
-- 🔭 I’m currently working on **Understanding python frameworks**
+- 🔭 I’m currently working on **Using JS testing frameworks**
 
 - 🌱 I’m currently learning **FastAPI**
 
-- 💬 Ask me about **NextJs, React, React Native, Ts, Js, Tailwindcss, MERN, FARM, Django**
+- 💬 Ask me about **NextJs, React, React Native, Ts, Js, Tailwindcss, MERN, FARM, FastAPI**
 
 - 📫 How to reach me **rafalpompa2000@gmail.com**
 
