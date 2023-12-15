@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RiP3rQ</h1>
-<h3 align="center">Currently an IT student who started his adventure with web and mobile application development in his spare time.</h3>
+<h3 align="center">Aspiring FullStack Web Developer who started his adventure with web and mobile application development in his spare time.</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rip3rq&label=Profile%20views&color=0e75b6&style=flat" alt="rip3rq" /> </p>
