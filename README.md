@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Using JS testing frameworks**
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **Jest/Cypress**
 
 - 💬 Ask me about **NextJs, React, React Native, Ts, Js, Tailwindcss, MERN, FARM, FastAPI**
 
